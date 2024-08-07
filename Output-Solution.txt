@@ -1,0 +1,2 @@
+﻿C:\Users\malt2\Source\Repos\tomtemplateapi-RNU4\BlazorApp2\BlazorApp2.csproj : error  : The project file could not be loaded. Could not find file 'C:\Users\malt2\Source\Repos\tomtemplateapi-RNU4\BlazorApp2\BlazorApp2.csproj'.  C:\Users\malt2\Source\Repos\tomtemplateapi-RNU4\BlazorApp2\BlazorApp2.csproj
+
